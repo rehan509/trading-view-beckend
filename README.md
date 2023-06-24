@@ -56,3 +56,4 @@ http://localhost:3000/index.html
 * [TradingView Charting Library](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/)
 * [TradingView Charting Library Demo](https://charting-library.tradingview.com/)
 * [TradingView GitHub](https://github.com/tradingview)
+# trading-view-beckend
